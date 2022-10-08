@@ -11,5 +11,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-student&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jonatan-student)  
 
